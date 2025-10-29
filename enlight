@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta http-equiv="Content-Security-Policy" content="
+      default-src 'self';
+      img-src 'self' https: data:;
+      script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com;
+      connect-src 'self' https://api.example.com https://www.google-analytics.com https://stats.g.doubleclick.net;
+      frame-src https://www.youtube-nocookie.com https://www.googletagmanager.com;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' https://fonts.gstatic.com data:;
+      base-uri 'self';
+      form-action 'self';
+      frame-ancestors 'self';
+      upgrade-insecure-requests;
+    ">
+    
+    <title>AI客服與智慧導覽系統 | 為您的顧客打造無縫體驗</title>
+    <meta name="description" content="導入領先的AI客服與AR智慧導覽平台，有效降低人力成本，提升顧客滿意度。立即預約免費評估，開啟您的智慧服務新時代。">
+    
+    <!-- Referrer Policy -->
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+
+    <link rel="preconnect" href="https://www.youtube-nocookie.com">
+    <link rel="preconnect" href="https://i.ytimg.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+TC:wght@500;700&display=swap" rel="stylesheet">
+
+    <!-- SEO & Sharing -->
+    <link rel="canonical" href="https://your-domain.com/">
+    <meta property="og:title" content="AI客服與智慧導覽系統 | 打造無縫顧客體驗">
+    <meta property="og:description" content="導入領先的AI客服與AR智慧導覽平台，有效降低人力成本，提升顧客滿意度。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-domain.com/">
+    <meta property="og:image" content="https://your-domain.com/og-image.jpg">
+    <meta property="og:image:alt" content="AI 客服與智慧導覽系統示意圖">
+    <meta property="og:site_name" content="智慧互動股份有限公司">
+    <meta property="og:locale" content="zh_TW">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI客服與智慧導覽系統 | 打造無縫顧客體驗">
+    <meta name="twitter:description" content="導入領先的AI客服與AR智慧導覽平台，有效降低人力成本，提升顧客滿意度。">
+    <meta name="twitter:image" content="https://your-domain.com/twitter-image.jpg">
+    
+    <!-- GA4 Analytics Script -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXX');
+    </script>
+
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "智慧互動股份有限公司",
+      "url": "https://your-domain.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://your-domain.com/logo.png",
+        "width": 512,
+        "height": 512
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+886-2-1234-5678",
+        "contactType": "customer service"
+      },
+      "sameAs": [
+        "https://www.facebook.com/yourpage",
+        "https://www.linkedin.com/company/yourco"
+      ],
+      "areaServed": "TW"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "AI客服與智慧導覽系統",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+     "@context":"https://schema.org",
+     "@type":"Product",
+     "name":"AI 客服系統",
+     "brand":{"@type":"Organization","name":"智慧互動股份有限公司"},
+     "offers":[
+      {"@type":"Offer","name":"標準版","priceCurrency":"USD","price":"60","availability":"https://schema.org/InStock"},
+      {"@type":"Offer","name":"專家版","priceCurrency":"USD","price":"500","availability":"https://schema.org/InStock"},
+      {"@type":"Offer","name":"旗艦版","priceCurrency":"USD","price":"1200","availability":"https://schema.org/InStock"}
+     ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+     "@context":"https://schema.org",
+     "@type":"VideoObject",
+     "name":"AI 客服運作展示",
+     "description":"我們的 AI 客服系統如何透過自然語言處理，即時解決客戶問題，提升服務效率。",
+     "thumbnailUrl":["https://your-domain.com/thumb-1.jpg"],
+     "uploadDate":"2025-01-01",
+     "embedUrl":"https://www.youtube-nocookie.com/embed/VIDEO_ID_1",
+     "duration":"PT1M30S"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+     "@context":"https://schema.org",
+     "@type":"VideoObject",
+     "name":"沉浸式智慧導覽體驗",
+     "description":"透過 3D 實景建模與 AR 技術，我們如何為實體場域打造數位分身，提供身歷其境的導覽體驗。",
+     "thumbnailUrl":["https://your-domain.com/thumb-2.jpg"],
+     "uploadDate":"2025-01-01",
+     "embedUrl":"https://www.youtube-nocookie.com/embed/VIDEO_ID_2",
+     "duration":"PT2M15S"
+    }
+    </script>
+     <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{
+            "@type": "Question",
+            "name": "導入這套系統需要多久時間？",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "標準方案最快可在 2 週內完成基礎設置與上線。客製化企業版則需視需求複雜度而定，通常為 1-2 個月。"
+            }
+        }, {
+            "@type": "Question",
+            "name": "是否支援串接我們現有的 CRM 系統？",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的，我們的專業版與企業版提供 API 介接服務，可與多數主流 CRM、ERP 系統進行整合，實現數據同步。"
+            }
+        }]
+    }
+    </script>
+
+    <style>
+        :root {
+            --color-primary: hsl(222, 95%, 65%);
+            --color-primary-glow: hsla(222, 95%, 65%, 0.3);
+            --color-secondary: hsl(280, 90%, 70%);
+            --color-bg-dark: hsl(230, 25%, 12%);
+            --color-bg-card: hsl(230, 25%, 16%);
+            --color-border: hsl(230, 20%, 25%);
+            --color-text-light: hsl(220, 25%, 95%);
+            --color-text-muted: hsl(220, 15%, 70%);
+            --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            --font-serif-tc: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", serif;
+            --container-width: 1120px;
+            --radius: 0.75rem;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: var(--color-bg-dark);
+            color: var(--color-text-light);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            overflow-x: hidden;
+            position: relative;
+        }
+        
+        #bg-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -2;
+        }
+
+        body::after {
+            content: '';
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: -1;
+            pointer-events: none;
+            background: radial-gradient(
+                800px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+                hsla(222, 95%, 65%, 0.15),
+                transparent 40%
+            );
+        }
+
+        /* Accessibility */
+        .skip-link {
+            position: absolute;
+            top: -40px; left: 0;
+            background: var(--color-primary); color: white;
+            padding: 8px; z-index: 100;
+            transition: top 0.3s;
+        }
+        .skip-link:focus { top: 0; }
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border-width: 0;
+        }
+
+        .btn:focus-visible,
+        .faq-item summary:focus-visible,
+        .video-placeholder:focus-visible,
+        .card:focus-visible,
+        .kpi-info:focus-visible,
+        .tab:focus-visible {
+            outline: 3px solid var(--color-primary);
+            outline-offset: 2px;
+        }
+
+        /* General Layout */
+        .container {
+            width: 100%; max-width: var(--container-width);
+            margin: 0 auto; padding: 0 1.5rem;
+        }
+        section { padding: 6rem 0; }
+        
+        /* Typography */
+        h1, h2, h3 { line-height: 1.2; font-weight: 700; color: var(--color-text-light); }
+        h1 { font-size: clamp(2.5rem, 5vw, 3.75rem); }
+        h2 { font-size: clamp(2rem, 4vw, 2.75rem); }
+        p { line-height: 1.7; color: var(--color-text-muted); }
+        .gradient-text {
+            background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .tc-serif { font-family: var(--font-serif-tc), var(--font-sans); }
+
+        /* Header */
+        .site-header {
+            position: sticky; top: 0; z-index: 50;
+            background-color: hsla(230, 25%, 12%, 0.8);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--color-border);
+            padding: 1rem 0;
+        }
+        .site-header .container { display: flex; justify-content: space-between; align-items: center; }
+        .site-header nav a {
+            color: var(--color-text-muted); text-decoration: none;
+            padding: 0.5rem 1rem; position: relative;
+            transition: color 0.3s, background-color 0.3s;
+        }
+        .site-header nav a:hover { color: var(--color-text-light); }
+        .site-header nav a[aria-current="page"] {
+            color: var(--color-text-light);
+            background-color: hsla(222, 95%, 65%, 0.1);
+            border-radius: 999px;
+        }
+
+
+        /* Buttons */
+        .btn {
+            display: inline-block; padding: 0.85rem 1.75rem;
+            border-radius: var(--radius); font-weight: 600;
+            text-decoration: none; border: 1px solid transparent;
+            transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+        }
+        .btn:hover { transform: translateY(-3px); }
+        .btn-primary {
+            background-color: var(--color-primary); color: white;
+            box-shadow: 0 0 25px 0 var(--color-primary-glow);
+        }
+         .btn-primary:hover {
+            background-color: hsl(222, 95%, 70%);
+        }
+        .btn-secondary {
+            background-color: transparent; color: var(--color-text-light);
+            border-color: var(--color-border);
+        }
+        .btn-secondary:hover { border-color: var(--color-primary); background-color: hsla(222, 95%, 65%, 0.1);}
+
+        /* Hero Section */
+        #hero { text-align: center; min-height: 90vh; display: flex; align-items: center; position: relative;}
+        #hero::before {
+            content: ''; position: absolute; bottom: 0; left: 50%;
+            transform: translateX(-50%); width: 80%; height: 1px;
+            background: linear-gradient(90deg, transparent, var(--color-border), transparent);
+        }
+        #hero h1 { margin-bottom: 1.5rem; }
+        #hero p { max-width: 700px; margin: 0 auto 2.5rem; font-size: 1.125rem;}
+
+        /* Card Styles */
+        .card {
+            background-color: var(--color-bg-card);
+            border-radius: var(--radius); padding: 2.5rem;
+            height: 100%; position: relative;
+            border: 1px solid var(--color-border);
+            transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+             transform: translateY(-5px);
+             background-color: hsl(230, 25%, 18%);
+             box-shadow: 0 0 25px var(--color-primary-glow);
+        }
+        
+        /* Quantified Metrics Section (Reverted) */
+        .metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; text-align: center;}
+        .metric-card .metric-icon {
+            width: 48px;
+            height: 48px;
+            margin: 0 auto 1.5rem;
+            color: var(--color-secondary);
+        }
+        .metric-card .value { font-size: 3rem; font-weight: 700; color: var(--color-primary); }
+        .metric-card .label { color: var(--color-text-muted); margin-top: 0.5rem; }
+        
+        /* How Section */
+        .feature-card { text-align: center; }
+        .feature-icon {
+            width: 48px; height: 48px;
+            margin: 0 auto 1.5rem;
+            color: var(--color-primary);
+        }
+        .video-placeholder {
+            aspect-ratio: 16 / 9;
+            background-color: var(--color-bg-dark);
+            border-radius: var(--radius);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-top: 1.5rem;
+            border: 1px dashed var(--color-border);
+            color: var(--color-text-muted);
+            cursor: pointer;
+            transition: border-color 0.3s, color 0.3s;
+            width: 100%;
+            font-family: inherit;
+        }
+        .video-placeholder:hover {
+            border-color: var(--color-primary);
+            color: var(--color-text-light);
+        }
+        .video-placeholder svg {
+            transition: color 0.3s;
+            width: 64px; height: 64px;
+        }
+        .video-placeholder:hover svg { color: var(--color-primary); }
+        .video-placeholder span {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+        
+        /* Plans Section */
+        .plans-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            align-items: stretch;
+        }
+        .plans-grid > .card {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        @media(min-width: 992px) {
+            .plans-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        .plan-features {
+            list-style: none;
+            padding: 0;
+            margin: 1.5rem 0;
+            flex-grow: 1;
+            text-align: left;
+        }
+        .plan-features li {
+            padding: 0.5rem 0 0.5rem 2rem;
+            position: relative;
+            color: var(--color-text-muted);
+        }
+        .plan-features li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: var(--color-primary);
+            font-weight: bold;
+        }
+        
+        /* FAQ Section */
+        .faq-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .faq-item {
+            border: 1px solid var(--color-border);
+            border-radius: var(--radius);
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+            padding: 0;
+        }
+        .faq-item:hover { border-color: var(--color-primary); }
+        .faq-item summary {
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem;
+            list-style: none;
+        }
+        .faq-item summary::-webkit-details-marker { display: none; }
+        .faq-item summary::after {
+            content: '';
+            width: 24px;
+            height: 24px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='2' stroke='%239ca3af'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19.5 8.25l-7.5 7.5-7.5-7.5' /%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            transition: transform 0.3s ease;
+        }
+        .faq-item[open] > summary { color: var(--color-primary); }
+        .faq-item[open] > summary::after { transform: rotate(180deg); }
+        .faq-item p {
+            margin: 0;
+            padding: 0 1.5rem 1.5rem 1.5rem;
+            border-top: 1px solid var(--color-border);
+            color: var(--color-text-muted);
+        }
+        
+        /* Contact Form */
+        .form-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+        @media(min-width: 768px) { .form-grid { grid-template-columns: 1fr 1fr; } .form-grid .full-width { grid-column: 1 / -1; }}
+        .form-group { display: flex; flex-direction: column; text-align: left;}
+        .form-group label { margin-bottom: 0.5rem; color: var(--color-text-muted); }
+        .form-group input, .form-group textarea {
+            background-color: var(--color-bg-dark); border: 1px solid var(--color-border);
+            border-radius: calc(var(--radius) / 2); padding: 0.75rem;
+            color: var(--color-text-light); font-size: 1rem; transition: border-color 0.2s;
+        }
+        .form-group input:focus, .form-group textarea:focus {
+            outline: none; border-color: var(--color-primary);
+        }
+        .form-group input[aria-invalid="true"] { border-color: hsl(0, 72%, 51%); }
+        .honeypot { position: absolute; left: -5000px; }
+        .form-status {
+            margin-top: 1rem; padding: 1rem; border-radius: var(--radius); text-align: center;
+        }
+        .form-status.success { background-color: hsla(145, 63%, 49%, 0.2); color: hsl(145, 63%, 79%); }
+        .form-status.error { background-color: hsla(0, 72%, 51%, 0.2); color: hsl(0, 72%, 81%); }
+
+        /* Reduced Motion */
+        @media (prefers-reduced-motion: reduce) {
+            html { scroll-behavior: auto; }
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
+        }
+
+        .logo-strip{display:flex;gap:2rem;justify-content:center;align-items:center;opacity:.85;margin-top:2rem;flex-wrap:wrap}.logo-strip img{height:28px;opacity:.8;filter:grayscale(100%);transition:opacity .2s}.logo-strip img:hover{opacity:1}
+        .stars{display:inline-flex;gap:2px;vertical-align:middle}.stars svg{width:16px;height:16px;color:var(--color-secondary)}
+        .trustline{color:var(--color-text-muted);font-size:.95rem;margin-top:.75rem}
+        .billing-toggle .tab { padding: .5rem 1rem; }
+        .plans-controls{display:flex;justify-content:center;align-items:center;gap:.75rem;margin:0 0 1.25rem}.switch{position:relative;width:56px;height:30px}.switch input{opacity:0;width:0;height:0}.switch span{position:absolute;inset:0;border-radius:999px;background:var(--color-bg-card);border:1px solid var(--color-border);transition:.25s}.switch span::before{content:"";position:absolute;width:24px;height:24px;left:3px;top:2px;border-radius:50%;background:#fff;transition:.25s}.switch input:checked + span{background:var(--color-primary)}.switch input:checked + span::before{transform:translateX(26px)}
+        .badge-save{background:var(--color-secondary);color:#fff;border-radius:999px;padding:.2rem .55rem;font-size:.75rem;font-weight:700}
+        .per-day{color:var(--color-text-muted);font-size:.9rem;margin-top:.25rem}
+        .popular-plan{border:1px solid var(--color-primary);box-shadow:0 0 0 1px rgba(255,255,255,.02),0 0 30px var(--color-primary-glow)}
+        
+        .popular-badge {
+            position: absolute;
+            top: -15px;
+            right: 20px;
+            background: var(--color-primary);
+            color: white;
+            padding: 0.4rem 0.9rem;
+            font-size: 0.85rem;
+            font-weight: bold;
+            border-radius: 20px;
+            box-shadow: 0 0 15px var(--color-primary-glow);
+            animation: pulse-glow 2s infinite ease-in-out;
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% {
+                transform: scale(1);
+                box-shadow: 0 0 15px var(--color-primary-glow);
+            }
+            50% {
+                transform: scale(1.05);
+                box-shadow: 0 0 25px var(--color-primary-glow);
+            }
+        }
+
+        .tour-callout {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 2rem;
+            text-align: left;
+            border-style: dashed;
+            padding: 2rem 2.5rem;
+        }
+        .tour-callout-content h3 {
+            margin: 0 0 0.5rem 0;
+        }
+        .tour-callout-content p {
+            margin: 0;
+            max-width: 65ch;
+        }
+        .tour-callout .btn {
+            flex-shrink: 0;
+        }
+
+        .plan-cta-note{margin-top:.6rem;color:var(--color-text-muted);font-size:.9rem}
+        .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:60;display:none;background:hsla(225, 15%, 8%,.8);backdrop-filter:blur(10px);border-top:1px solid var(--color-border)}
+        .sticky-cta-inner{display:flex;justify-content:space-between;align-items:center;gap:.75rem;padding:.75rem 1rem}
+        @media (max-width: 768px){ .sticky-cta{display:block} }
+        .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;z-index:70}.modal{background:var(--color-bg-card);border:1px solid var(--color-border);border-radius:var(--radius);padding:1.25rem;max-width:520px;width:92%}.modal h3{margin-top:0}.modal .grid{display:grid;grid-template-columns:1fr 1fr;gap:.75rem}.modal .grid .full{grid-column:1 / -1}.modal input{width:100%;background:var(--color-bg-dark);border:1px solid var(--color-border);border-radius:.5rem;color:var(--color-text-light);padding:.6rem}.modal .result{margin-top:.75rem;font-weight:700}.modal-close{margin-left:auto}
+        .tab{border:1px solid var(--color-border);background:transparent;color:var(--color-text-light); padding:.6rem 1.1rem;border-radius:.6rem;cursor:pointer;transition:.2s}
+        .tab.is-active{background:var(--color-primary);border-color:var(--color-primary);color:white;font-weight:600;}
+        .tab-panel{animation:fadeIn .2s ease}
+        @keyframes fadeIn{from{opacity:.6;transform:translateY(4px)}to{opacity:1;transform:none}}
+        .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+        .feature-item { display: flex; align-items: center; gap: .75rem; }
+        .feature-item .feature-icon { width: 24px; height: 24px; color: var(--color-primary); margin: 0; }
+        .comparison-table td, .comparison-table th { padding: 1rem; border-bottom: 1px solid var(--color-border); }
+        .comparison-table tbody tr:last-child td { border-bottom: none; }
+        .comparison-table tbody tr td:not(:first-child) { color: var(--color-primary); font-weight: 600; }
+        .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+
+        /* Challenges Section */
+        #challenges .card {
+            text-align: center;
+        }
+        #challenges .card p {
+            text-align: left;
+        }
+        #challenges .feature-icon {
+            width: 56px;
+            height: 56px;
+            color: var(--color-secondary);
+        }
+    </style>
+</head>
+<body>
+
+    <a href="#main-content" class="skip-link">跳至主要內容</a>
+
+    <header class="site-header">
+        <div class="container">
+            <h2 class="tc-serif" style="font-size: 1.5rem; font-weight: bold; color: white;">智慧<span class="gradient-text">互動</span></h2>
+            <nav>
+                <a href="#why">核心理念 (Why)</a>
+                <a href="#how">解決方案 (How)</a>
+                <a href="#what">產品方案 (What)</a>
+                <a href="#contact">預約諮詢</a>
+            </nav>
+        </div>
+    </header>
+
+    <main id="main-content">
+        <!-- Section 1: The WHY - Hero -->
+        <section id="hero">
+            <div class="container">
+                <h1 class="tc-serif">我們相信，每一次的<span class="gradient-text">互動</span>，<br>都該是無比順暢的體驗。</h1>
+                <p>告別無盡的等待與迷惘。我們致力於透過AI，為您的顧客與訪客，打造真正有溫度、有效率的智慧服務。</p>
+                <a href="#contact" class="btn btn-primary">預約免費評估</a>
+                <a href="#how" class="btn btn-secondary" style="margin-left: 1rem;">了解解決方案</a>
+        </div>
+    </section>
+
+    <!-- NEW: Challenges Section -->
+    <section id="challenges" style="background-color: var(--color-bg-card);">
+        <div class="container">
+            <h2 class="tc-serif" style="text-align: center; margin-bottom: 3rem;">您的團隊是否也面臨這些<span class="gradient-text">挑戰？</span></h2>
+            <div class="grid-3">
+                <div class="card challenge-card">
+                    <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 01-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 011.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 00-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 01-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 00-3.375-3.375h-1.5a1.125 1.125 0 01-1.125-1.125v-1.5a3.375 3.375 0 00-3.375-3.375H9.75" />
+                    </svg>
+                    <h3 class="tc-serif">重複性問題佔用過多時間</h3>
+                    <p>您的專業團隊是否每天都在回答相同的問題，而無法專注於更高價值的工作？</p>
+                </div>
+                <div class="card challenge-card">
+                    <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25c0 5.385 4.365 9.75 9.75 9.75 2.572 0 4.92-.99 6.697-2.648z" />
+                    </svg>
+                    <h3 class="tc-serif">錯失非營業時間的潛在客戶</h3>
+                    <p>當客戶在半夜或週末提出疑問時，您只能讓他們等待，可能因此流失寶貴的成交機會？</p>
+                </div>
+                <div class="card challenge-card">
+                     <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75" />
+                    </svg>
+                    <h3 class="tc-serif">服務品質不一且難以擴展</h3>
+                    <p>隨著業務增長，很難確保每一位客服都能提供同樣標準、高品質的回覆與引導？</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 2: Deepen The WHY - Quantified Social Proof -->
+    <section id="why">
+        <div class="container">
+            <h2 class="tc-serif" style="text-align: center; margin-bottom: 3rem;">實際導入案例<span class="gradient-text">成效觀察</span></h2>
+                <div class="metrics-grid">
+                    <div class="metric-card card" tabindex="0">
+                        <svg class="metric-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z" />
+                        </svg>
+                        <div class="value">+14%</div>
+                        <div class="label">客服每小時結案數</div>
+                    </div>
+                    <div class="metric-card card" tabindex="0">
+                        <svg class="metric-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 14.25v2.25m3-4.5v4.5m3-6.75v6.75m3-9v9M6 20.25h12A2.25 2.25 0 0020.25 18V5.75A2.25 2.25 0 0018 3.5H6A2.25 2.25 0 003.75 5.75v12.25A2.25 2.25 0 006 20.25z" />
+                        </svg>
+                        <div class="value">7x</div>
+                        <div class="label">潛在對話轉換率</div>
+                    </div>
+                    <div class="metric-card card" tabindex="0">
+                         <svg class="metric-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                           <path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <div class="value">-50%</div>
+                        <div class="label">人工需求</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 3: The HOW - Our Solution -->
+        <section id="how" style="background-color: var(--color-bg-card);">
+            <div class="container">
+                <h2 class="tc-serif" style="text-align: center; margin-bottom: 3rem;">兩大智慧解決方案，為您量身打造</h2>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2rem; align-items: start;">
+                    <div class="card feature-card" tabindex="0">
+                        <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 18.75a6 6 0 006-6v-1.5a6 6 0 00-6-6v1.5a6 6 0 00-6 6v1.5a6 6 0 006 6zM12 18.75a6 6 0 01-6-6v-1.5a6 6 0 016-6v1.5a6 6 0 016 6v1.5a6 6 0 01-6 6zM12 18.75v-1.5a6 6 0 006-6v-1.5a6 6 0 00-6-6V6a6 6 0 00-6 6v1.5a6 6 0 006 6z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <h3 class="tc-serif" style="color: white;">智慧AI客服核心</h3>
+                        <p>採用領先的自然語言處理 (NLP) 模型，結合您的產業知識庫進行訓練，讓AI能精準判斷顧客意圖，提供有同理心的回應。</p>
+                        <button class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/VIDEO_ID_1?autoplay=1" aria-label="播放影片：AI 客服運作展示">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4.5 5.653c0-1.426 1.529-2.33 2.779-1.643l11.54 6.647c1.295.742 1.295 2.545 0 3.286L7.279 20.99c-1.25.722-2.779-.217-2.779-1.643V5.653z"></path></svg>
+                            <span>AI 客服運作展示</span>
+                        </button>
+                    </div>
+                    <div class="card feature-card" tabindex="0">
+                         <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 21v-8.25M15.75 21v-8.25M8.25 21v-8.25M3 9l9-6 9 6m-1.5 12V10.332A48.36 48.36 0 0012 9.75c-2.551 0-5.056.2-7.5.582V21M3 21h18M12 6.75h.008v.008H12V6.75z" />
+                        </svg>
+                        <h3 class="tc-serif" style="color: white;">沉浸式智慧導覽核心</h3>
+                        <p>透過3D實景建模與AR擴增實境技術，我們將您的實體場域轉化為數位分身，提供身歷其境的指引與趣味的探索體驗。</p>
+                         <button class="video-placeholder" data-embed="https://www.youtube-nocookie.com/embed/VIDEO_ID_2?autoplay=1" aria-label="播放影片：智慧導覽體驗">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4.5 5.653c0-1.426 1.529-2.33 2.779-1.643l11.54 6.647c1.295.742 1.295 2.545 0 3.286L7.279 20.99c-1.25.722-2.779-.217-2.779-1.643V5.653z"></path></svg>
+                            <span>智慧導覽體驗</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- NEW: Feature Tabs -->
+        <section id="features">
+            <div class="container">
+                <h2 class="tc-serif" style="text-align:center;margin-bottom:1rem">完整功能模組</h2>
+                <p style="text-align:center;max-width:600px;margin:0 auto 2rem;color:var(--color-text-muted)">探索我們如何透過模組化的功能，滿足您多元的業務需求。</p>
+        
+                <!-- Tablist -->
+                <div class="feature-tabs" role="tablist" aria-label="功能模組" style="display:flex;justify-content:center;gap:.5rem;margin:1.25rem 0 2rem">
+                    <button id="tab-cx" class="tab is-active" role="tab" aria-selected="true" aria-controls="panel-cx">AI 客服</button>
+                    <button id="tab-guide" class="tab" role="tab" aria-selected="false" aria-controls="panel-guide">智慧導覽</button>
+                </div>
+        
+                <!-- Panels -->
+                <div id="panel-cx" class="tab-panel" role="tabpanel" aria-labelledby="tab-cx">
+                    <div class="card">
+                        <div class="feature-grid">
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 9.75h.01M8.25 12h.01M8.25 14.25h.01M12 9.75h.01M12 12h.01M12 14.25h.01M15.75 9.75h.01M15.75 12h.01M15.75 14.25h.01M4.5 19.5v-15A2.25 2.25 0 016.75 2.25h10.5A2.25 2.25 0 0119.5 4.5v15a2.25 2.25 0 01-2.25 2.25H6.75A2.25 2.25 0 014.5 19.5z" />
+                                </svg>
+                                <div>即時問答：減少等待</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m5.231 13.481L15 17.25m-4.5-15H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9zm3.75 11.625a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
+                                </svg>
+                                <div>訂單/預約查詢：連接 CRM/票務</div>
+                            </div>
+                             <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM9 15h3.75" />
+                                </svg>
+                                <div>表單收集：名單交給自動化</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 12.75l.01-.01M12 12.75v-3.36M12 12.75c-1.332 0-2.656-.25-3.92-.723" />
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 12.75c1.332 0 2.656-.25 3.92-.723" />
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M16.92 11.277l.01.01" />
+                                </svg>
+                                <div>移交真人：高價值對話不中斷</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                     <path stroke-linecap="round" stroke-linejoin="round" d="M10.34 12.25c.413-.413.413-1.083 0-1.496m-1.496-1.496a2.25 2.25 0 013.182 0 2.25 2.25 0 010 3.182m-1.496 1.496a2.25 2.25 0 01-3.182 0 2.25 2.25 0 010-3.182M10.34 12.25L9.66 11.57m.68.68l.68.68m-1.36 0l-.68.68m1.36 0l.68-.68" /><path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <div>營銷推播：分眾訊息</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 00-6.364-6.364l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
+                                </svg>
+                                <div>多平台整合：Shopify/LINE/FB</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        
+                <div id="panel-guide" class="tab-panel" role="tabpanel" aria-labelledby="tab-guide" hidden>
+                    <div class="card">
+                        <div class="feature-grid">
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M9 6.75V15m6-6v8.25m.5 3.75l-3 3m0 0l-3-3m3 3V1.5M3 15h18" />
+                                </svg>
+                                <div>互動地圖：拖曳縮放、搜路</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 3v1.5M4.5 8.25H3m18 0h-1.5M4.5 12H3m18 0h-1.5m-15 3.75H3m18 0h-1.5M8.25 19.5V21M12 3v1.5m0 15V21m3.75-18v1.5m0 15V21m-9-1.5h10.5a2.25 2.25 0 002.25-2.25V8.25a2.25 2.25 0 00-2.25-2.25H6.75A2.25 2.25 0 004.5 8.25v7.5A2.25 2.25 0 006.75 18z" />
+                                </svg>
+                                <div>路線規劃：依時長/無障礙</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 4.875c0-1.036.84-1.875 1.875-1.875h4.5c1.036 0 1.875.84 1.875 1.875v4.5c0 1.036-.84 1.875-1.875 1.875h-4.5A1.875 1.875 0 013.75 9.375v-4.5zM3.75 14.625c0-1.036.84-1.875 1.875-1.875h4.5c1.036 0 1.875.84 1.875 1.875v4.5c0 1.036-.84 1.875-1.875 1.875h-4.5A1.875 1.875 0 013.75 19.125v-4.5zM13.5 4.875c0-1.036.84-1.875 1.875-1.875h4.5c1.036 0 1.875.84 1.875 1.875v4.5c0 1.036-.84 1.875-1.875 1.875h-4.5A1.875 1.875 0 0113.5 9.375v-4.5zM13.5 14.625c0-1.036.84-1.875 1.875-1.875h4.5c1.036 0 1.875.84 1.875 1.875v4.5c0 1.036-.84 1.875-1.875 1.875h-4.5a1.875 1.875 0 01-1.875-1.875v-4.5z" />
+                                </svg>
+                                <div>掃碼導覽：展件/地標觸發</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.898 20.572L16.5 21.75l-.398-1.178a3.375 3.375 0 00-2.456-2.456L12.5 18l1.178-.398a3.375 3.375 0 002.456-2.456L16.5 14.25l.398 1.178a3.375 3.375 0 002.456 2.456L20.5 18l-1.178.398a3.375 3.375 0 00-2.456 2.456z" />
+                                </svg>
+                                <div>智慧行程推薦：AI 個人化</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M21 7.5l-2.25-1.313M21 7.5v2.25m0-2.25l-2.25 1.313M3 7.5l2.25-1.313M3 7.5l2.25 1.313M3 7.5v2.25m9 3l2.25-1.313M12 12.75l-2.25-1.313M12 12.75V15m0 6.75v-2.25M7.5 15.75l-2.25-1.313M7.5 15.75l2.25 1.313M7.5 15.75v-2.25m9 0l-2.25 1.313M16.5 15.75l2.25 1.313M16.5 15.75v-2.25M12 3V5.25" />
+                                </svg>
+                                <div>AR 互動與遊戲化：增加趣味性</div>
+                            </div>
+                            <div class="feature-item">
+                                <svg class="feature-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                  <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 21l5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 016-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C13.18 7.965 14 8.287 14 8.722c0 .434-.82 1.033-1.666 1.48M9 5.25c-1.12 0-2.233.038-3.334.114M6 5.25V3m3.334 2.364C8.18 7.965 7.333 8.287 7.333 8.722c0 .434.82 1.033 1.667 1.48" />
+                                </svg>
+                                <div>多語言支援：服務國際旅客</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: The WHAT - Products & Plans -->
+        <section id="what">
+            <div class="container">
+                <h2 class="tc-serif" style="text-align: center; margin-bottom: 1rem;">智慧 <span class="gradient-text">AI 客服</span> 方案</h2>
+                
+                <div class="billing-toggle" style="text-align:center;margin:1.25rem 0 2rem">
+                    <div role="group" aria-label="計費週期" style="display:inline-flex;gap:.5rem;border:1px solid var(--color-border);padding:.25rem;border-radius:.6rem;">
+                        <button id="bill-month" class="tab is-active" aria-pressed="true">月付</button>
+                        <button id="bill-year" class="tab" aria-pressed="false">年付 <span class="price-note badge-save">省 15%</span></button>
+                    </div>
+                    <span id="billing-announcer" class="sr-only" aria-live="polite"></span>
+                </div>
+
+                <div class="plans-grid">
+                    <div class="card" tabindex="0">
+                        <h3 class="tc-serif" style="color: white;">標準版</h3>
+                        <p style="font-size:2rem;font-weight:bold;color:white;">
+                            <span class="plan-price" data-id="standard" data-month="60" data-discount="0.15"></span>
+                            <span class="plan-unit" style="font-size:1rem;color:var(--color-text-muted)"></span>
+                        </p>
+                        <ul class="plan-features">
+                            <li>多管道通知</li>
+                            <li>AI 專員 / 生成式回覆</li>
+                            <li>自動化解決報告功能</li>
+                            <li>生成式搜尋知識庫</li>
+                            <li>每月 50 萬 AI 免費字元</li>
+                        </ul>
+                         <p style="margin-top: 1.5rem; opacity:.8; font-size: 0.9rem;">
+                          附加模組：IP 人偶塑造（價格另議）
+                        </p>
+                        <a href="#contact" class="btn btn-secondary" style="width: 100%; text-align: center; margin-top: auto;" aria-label="選擇 標準版 方案">選擇此方案</a>
+                    </div>
+                    <div class="card popular-plan" tabindex="0">
+                        <h3 class="tc-serif" style="color: white;">專家版 <span class="popular-badge">最受歡迎</span></h3>
+                        <p style="font-size:2rem;font-weight:bold;color:white;">
+                            <span class="plan-price" data-id="expert" data-month="500" data-discount="0.15"></span>
+                            <span class="plan-unit" style="font-size:1rem;color:var(--color-text-muted)"></span>
+                        </p>
+                        <ul class="plan-features">
+                            <li><strong>標準版所有功能，加上：</strong></li>
+                            <li>每月 100 萬 AI 免費字元</li>
+                            <li>影片/行銷模組</li>
+                            <li>AI 進階成效分析</li>
+                            <li>聊天內表單</li>
+                            <li>營業時間轉真人</li>
+                        </ul>
+                         <p style="margin-top: 1.5rem; opacity:.8; font-size: 0.9rem;">
+                          附加模組：IP 人偶塑造（價格另議）
+                        </p>
+                         <a href="#contact" class="btn btn-primary" style="width: 100%; text-align: center; margin-top: auto;" aria-label="選擇 專家版 方案">選擇此方案</a>
+                    </div>
+                    <div class="card" tabindex="0">
+                        <h3 class="tc-serif" style="color: white;">旗艦版</h3>
+                        <p style="font-size:2rem;font-weight:bold;color:white;">
+                            <span class="plan-price" data-id="flagship" data-month="1200" data-discount="0.15"></span>
+                            <span class="plan-unit" style="font-size:1rem;color:var(--color-text-muted)"></span>
+                        </p>
+                        <ul class="plan-features">
+                            <li><strong>專家版所有功能，加上：</strong></li>
+                            <li>SDK 購物車再行銷</li>
+                            <li>AI 潛力購買預測</li>
+                            <li>專屬客戶成功經理</li>
+                            <li>商品自動上架流程</li>
+                        </ul>
+                        <p style="margin-top: 1.5rem; opacity:.8; font-size: 0.9rem;">
+                          附加模組：IP 人偶塑造（價格另議）
+                        </p>
+                         <a href="#contact" class="btn btn-secondary" style="width: 100%; text-align: center; margin-top: auto;" aria-label="選擇 旗艦版 方案">選擇此方案</a>
+                    </div>
+                </div>
+
+                <!-- Custom Solution Callout for Smart Tour (FIXED LAYOUT) -->
+                <div class="card tour-callout" style="margin-top: 4rem;">
+                    <div class="tour-callout-content">
+                        <h3 class="tc-serif" style="color: white;">需要沉浸式智慧導覽？</h3>
+                        <p>我們為博物館、展覽館、園區等場域提供客製化的智慧導覽解決方案。請與我們的專家聯繫，打造專屬於您的互動體驗。</p>
+                    </div>
+                    <a href="#contact" class="btn btn-secondary">洽詢客製化方案</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- NEW: Comparison Table -->
+        <section id="comparison">
+            <div class="container">
+                <h2 class="tc-serif" style="text-align:center;margin-bottom:2rem">功能比較</h2>
+                <div class="card" style="overflow:auto">
+                    <table class="comparison-table" style="width:100%;min-width:720px;border-collapse:collapse">
+                        <thead>
+                            <tr style="border-bottom: 1px solid var(--color-border);">
+                                <th style="text-align:left;padding:1rem;font-size:1.2rem;" class="tc-serif">功能項目</th>
+                                <th style="text-align:center;padding:1rem">標準版</th>
+                                <th style="text-align:center;padding:1rem">專家版</th>
+                                <th style="text-align:center;padding:1rem">旗艦版</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>免費字元</td><td style="text-align:center">50 萬 / 月</td><td style="text-align:center">100 萬 / 月</td><td style="text-align:center">100 萬 / 月</td></tr>
+                            <tr><td>影片連結模組</td><td style="text-align:center">加購</td><td style="text-align:center">✓</td><td style="text-align:center">✓</td></tr>
+                            <tr><td>精準行銷模組</td><td style="text-align:center">加購</td><td style="text-align:center">✓ (聊天內導購)</td><td style="text-align:center">✓ (含站外推播)</td></tr>
+                            <tr><td>AI 進階互動分析</td><td style="text-align:center">—</td><td style="text-align:center">Lite 版</td><td style="text-align:center">完整版</td></tr>
+                            <tr><td>聊天內表單</td><td style="text-align:center">—</td><td style="text-align:center">✓</td><td style="text-align:center">✓</td></tr>
+                            <tr><td>網站 SDK 再行銷</td><td style="text-align:center">—</td><td style="text-align:center">—</td><td style="text-align:center">✓</td></tr>
+                            <tr><td>AI 潛力購買預測</td><td style="text-align:center">—</td><td style="text-align:center">—</td><td style="text-align:center">✓</td></tr>
+                            <tr><td>專屬客戶成功經理</td><td style="text-align:center">—</td><td style="text-align:center">—</td><td style="text-align:center">✓</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- NEW: Security & Integration -->
+        <section id="security" style="background-color: var(--color-bg-card);">
+            <div class="container">
+                <h2 class="tc-serif" style="text-align:center;margin-bottom:2rem">企業級的安全與整合</h2>
+                <div class="grid-3">
+                    <div class="card">
+                        <h3 class="tc-serif">資料加密</h3>
+                        <p>傳輸與靜態資料皆採用業界標準 AES-256 加密，保護您的數據安全。</p>
+                    </div>
+                    <div class="card">
+                        <h3 class="tc-serif">權限控管</h3>
+                        <p>支援角色型存取控制 (RBAC) 與詳細的操作稽核日誌，確保權責分明。</p>
+                    </div>
+                    <div class="card">
+                        <h3 class="tc-serif">合規認證</h3>
+                        <p>我們的服務架構符合 GDPR、ISO 27001 等國際規範，讓您安心使用。</p>
+                    </div>
+                </div>
+                <div style="text-align:center;margin-top:3rem">
+                    <h3 class="tc-serif">整合生態</h3>
+                    <p style="color:var(--color-text-muted)">無縫串接您現有的工作流程</p>
+                    <div class="logo-strip">
+                        <img src="https://placehold.co/100x30/FFFFFF/000000?text=LINE" alt="LINE Logo" loading="lazy" decoding="async">
+                        <img src="https://placehold.co/100x30/FFFFFF/000000?text=Facebook" alt="Facebook Logo" loading="lazy" decoding="async">
+                        <img src="https://placehold.co/100x30/FFFFFF/000000?text=Shopify" alt="Shopify Logo" loading="lazy" decoding="async">
+                        <img src="https://placehold.co/100x30/FFFFFF/000000?text=Shopline" alt="Shopline Logo" loading="lazy" decoding="async">
+                        <img src="https://placehold.co/100x30/FFFFFF/000000?text=GA4" alt="Google Analytics 4 Logo" loading="lazy" decoding="async">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 5: FAQ -->
+        <section id="faq">
+            <div class="container" style="max-width: 800px;">
+                <h2 class="tc-serif" style="text-align: center; margin-bottom: 1rem;">還在猶豫？讓我們<span class="gradient-text">解決您的顧慮</span></h2>
+                <p style="text-align: center; max-width: 600px; margin: 0 auto 3rem; font-size: 1.1rem; opacity: 0.9;">我們理解導入新技術的擔憂。以下是企業主最常問的問題，以及我們如何確保您的成功：</p>
+                <div class="faq-list">
+                    <details class="faq-item">
+                        <summary class="tc-serif">導入這套系統需要多久時間？</summary>
+                        <p>標準方案最快可在 2 週內完成基礎設置與上線。客製化企業版則需視需求複雜度而定，通常為 1-2 個月。</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary class="tc-serif">是否支援串接我們現有的 CRM 系統？</summary>
+                        <p>是的，我們的專業版與企業版提供 API 介接服務，可與多數主流 CRM、ERP 系統進行整合，實現數據同步。</p>
+                    </details>
+                    <details class="faq-item">
+                        <summary class="tc-serif">資料安全性如何保障？</summary>
+                        <p>我們採用業界最高標準的加密技術，所有數據傳輸與儲存皆符合 GDPR 與 ISO 27001 規範，確保您的商業機密安全無虞。</p>
+                    </details>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 6: Final CTA -->
+        <section id="contact" style="background-color: var(--color-bg-card);">
+            <div class="container" style="max-width: 800px; text-align: center;">
+                <h2 class="tc-serif">準備好，為您的顧客創造<br><span class="gradient-text">無與倫比的體驗</span>了嗎？</h2>
+                <p>立即預約免費顧問諮詢，我們的專家將在 1 個工作天內與您聯繫，提供客製化的導入評估。</p>
+                <form id="lead-form">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="name">您的姓名</label>
+                            <input type="text" id="name" name="name" autocomplete="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="company">公司名稱</label>
+                            <input type="text" id="company" name="company" autocomplete="organization" required>
+                        </div>
+                        <div class="form-group full-width">
+                            <label for="email">電子郵件</label>
+                            <input type="email" id="email" name="email" autocomplete="email" required>
+                        </div>
+                        <div class="form-group full-width">
+                            <label for="message">您的需求（選填）</label>
+                            <textarea id="message" name="message" rows="4"></textarea>
+                        </div>
+                    </div>
+                    <input type="text" name="website" class="honeypot" tabindex="-1" autocomplete="off">
+                    <input type="hidden" name="utm_source">
+                    <input type="hidden" name="utm_medium">
+                    <input type="hidden" name="utm_campaign">
+                    
+                    <button type="submit" class="btn btn-primary" style="width: 100%; margin-top: 2rem;">立即送出，預約評估</button>
+                    <div id="form-status" class="form-status" role="status" aria-live="polite" style="display: none;"></div>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- NEW: Sticky CTA -->
+    <div class="sticky-cta" aria-label="快速操作" role="region">
+        <div class="sticky-cta-inner">
+            <div>
+                <button id="m-bill-month" class="tab is-active" aria-pressed="true">月付</button>
+                <button id="m-bill-year" class="tab" aria-pressed="false">年付</button>
+            </div>
+            <a href="#contact" class="btn btn-primary">立即諮詢</a>
+        </div>
+    </div>
+
+
+    <footer style="padding: 2rem 0; text-align: center; border-top: 1px solid var(--color-border);">
+        <div class="container">
+            <p style="color: var(--color-text-muted);">&copy; 2025 智慧互動股份有限公司. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const pageLoadTime = Date.now();
+            // Event Tracking Wrapper
+            window.dataLayer = window.dataLayer || [];
+            function track(name, params={}) {
+              if (window.gtag) gtag('event', name, params);
+              window.dataLayer.push({ event: name, ...params });
+            }
+
+            const body = document.body;
+            let rafId = null;
+            body.addEventListener('mousemove', (e) => {
+                if (rafId) {
+                    cancelAnimationFrame(rafId);
+                }
+                rafId = requestAnimationFrame(() => {
+                    const { clientX, clientY } = e;
+                    body.style.setProperty('--mouse-x', `${clientX}px`);
+                    body.style.setProperty('--mouse-y', `${clientY}px`);
+                });
+            });
+            
+            // UTM Storage with TTL
+            const utmParams = ['utm_source', 'utm_medium', 'utm_campaign'];
+            const urlParams = new URLSearchParams(window.location.search);
+            const TTL = 90*24*60*60*1000;
+            const now = Date.now();
+            
+            utmParams.forEach(k => {
+              if (urlParams.has(k)) {
+                localStorage.setItem(k, JSON.stringify({v:urlParams.get(k), t:now}));
+              }
+              const raw = localStorage.getItem(k);
+              if (raw) {
+                try {
+                    const {v,t} = JSON.parse(raw);
+                    if (now - t > TTL) localStorage.removeItem(k);
+                } catch(e) {
+                    localStorage.removeItem(k);
+                }
+              }
+            });
+            
+            // Video Lazy Load
+            document.querySelectorAll('.video-placeholder').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    track('video_start', { video_name: btn.getAttribute('aria-label') });
+                    const url = btn.dataset.embed;
+                    const iframe = document.createElement('iframe');
+                    iframe.src = url;
+                    iframe.title = '影片播放器';
+                    iframe.loading = 'lazy';
+                    iframe.allow = 'autoplay; encrypted-media; picture-in-picture';
+                    iframe.setAttribute('allowfullscreen', '');
+                    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+                    iframe.style.width = '100%';
+                    iframe.style.height = '100%';
+                    iframe.style.border = '0';
+                    btn.replaceWith(iframe);
+                    iframe.focus();
+                });
+            });
+            
+            // Feature Tabs
+            const tabCx = document.getElementById('tab-cx');
+            const tabGuide = document.getElementById('tab-guide');
+            const panelCx = document.getElementById('panel-cx');
+            const panelGuide = document.getElementById('panel-guide');
+            function activateTab(tab){
+              const isCx = tab === 'cx';
+              tabCx.classList.toggle('is-active', isCx);
+              tabGuide.classList.toggle('is-active', !isCx);
+              tabCx.setAttribute('aria-selected', isCx ? 'true' : 'false');
+              tabGuide.setAttribute('aria-selected', !isCx ? 'true' : 'false');
+              panelCx.hidden = !isCx; panelGuide.hidden = isCx;
+              track('tab_switch',{ tab: isCx ? 'cx' : 'guide' });
+            }
+            tabCx?.addEventListener('click',()=>activateTab('cx'));
+            tabGuide?.addEventListener('click',()=>activateTab('guide'));
+
+            // Billing Toggle
+            function renderPrices(mode){
+              document.querySelectorAll('.plan-price').forEach(el=>{
+                const m = Number(el.dataset.month || '0');
+                const d = Number(el.dataset.discount || '0');
+                let text = '';
+                if (mode==='year') {
+                  const yr = Math.round(m * 12 * (1 - d));
+                  text = `$${yr.toLocaleString()}`
+                } else {
+                  text = `$${m.toLocaleString()}`
+                }
+                el.textContent = text + ' ';
+                const unit = el.parentElement?.querySelector('.plan-unit');
+                if (unit) unit.textContent = `USD / ${mode==='year' ? '年' : '月'}`;
+              });
+              const ann = document.getElementById('billing-announcer');
+              if (ann) ann.textContent = mode==='year' ? '已切換為年付（省 15%）' : '已切換為月付';
+              track('billing_toggle',{ cycle: mode });
+            }
+
+            const btnMonth = document.getElementById('bill-month');
+            const btnYear = document.getElementById('bill-year');
+            const mMonth = document.getElementById('m-bill-month');
+            const mYear = document.getElementById('m-bill-year');
+
+            function setCycle(mode){
+              if(btnMonth) btnMonth.classList.toggle('is-active', mode==='month');
+              if(btnYear) btnYear.classList.toggle('is-active', mode==='year');
+              if(btnMonth) btnMonth.setAttribute('aria-pressed', mode==='month'?'true':'false');
+              if(btnYear) btnYear.setAttribute('aria-pressed', mode==='year'?'true':'false');
+
+              if(mMonth) mMonth.classList.toggle('is-active', mode==='month');
+              if(mYear) mYear.classList.toggle('is-active', mode==='year');
+              if(mMonth) mMonth.setAttribute('aria-pressed', mode==='month'?'true':'false');
+              if(mYear) mYear.setAttribute('aria-pressed', mode==='year'?'true':'false');
+
+              renderPrices(mode);
+            }
+            btnMonth?.addEventListener('click',()=>setCycle('month'));
+            btnYear?.addEventListener('click',()=>setCycle('year'));
+            mMonth?.addEventListener('click',()=>setCycle('month'));
+            mYear?.addEventListener('click',()=>setCycle('year'));
+            
+            setCycle('month'); // Initial render
+
+            const form = document.getElementById('lead-form');
+            const formStatus = document.getElementById('form-status');
+            const submitButton = form.querySelector('button[type="submit"]');
+
+            form.addEventListener('submit', async (e) => {
+                e.preventDefault();
+
+                if (Date.now() - pageLoadTime < 3000) {
+                    console.warn('Potential bot submission blocked.');
+                    return;
+                }
+                
+                // Form Validation
+                let invalid = false;
+                ['name','company','email'].forEach(id=>{
+                  const el = document.getElementById(id);
+                  const valid = el.checkValidity();
+                  el.setAttribute('aria-invalid', valid ? 'false' : 'true');
+                  if(!valid) invalid = true;
+                });
+                if(invalid) return;
+
+                if (form.querySelector('.honeypot').value) return;
+
+                utmParams.forEach(param => {
+                    const input = form.querySelector(`input[name="${param}"]`);
+                    if (input) {
+                        const raw = localStorage.getItem(param);
+                        if(raw) {
+                            try { input.value = JSON.parse(raw).v || ''; } catch(e) {}
+                        }
+                    }
+                });
+
+                const formData = new FormData(form);
+                const data = Object.fromEntries(formData.entries());
+                
+                submitButton.disabled = true;
+                submitButton.textContent = '傳送中...';
+                formStatus.style.display = 'none';
+
+                try {
+                    const response = await fetch('https://api.example.com/lead', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(data),
+                    });
+                    
+                    if (!response.ok) {
+                         await new Promise(resolve => setTimeout(resolve, 800));
+                         throw new Error('Server responded with an error');
+                    }
+                    
+                    track('generate_lead');
+                    
+                    formStatus.textContent = '感謝您！我們已收到您的訊息，將在 1 個工作天內與您聯繫。';
+                    formStatus.className = 'form-status success';
+                    form.reset();
+
+                } catch (error) {
+                    console.error('Form submission error:', error);
+                    formStatus.textContent = '抱歉，訊息傳送失敗，請稍後再試或直接聯繫我們。';
+                    formStatus.className = 'form-status error';
+                } finally {
+                    formStatus.style.display = 'block';
+                    submitButton.disabled = false;
+                    submitButton.textContent = '立即送出，預約評估';
+                }
+            });
+
+            const sections = document.querySelectorAll('main section');
+            const navLinks = document.querySelectorAll('header nav a');
+            
+            const observerOptions = { rootMargin: '-50% 0px -50% 0px' };
+            const sectionObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const id = entry.target.getAttribute('id');
+                        navLinks.forEach(link => {
+                            link.removeAttribute('aria-current');
+                            if (link.getAttribute('href') === `#${id}`) {
+                                link.setAttribute('aria-current', 'page');
+                            }
+                        });
+                    }
+                });
+            }, observerOptions);
+
+            sections.forEach(section => sectionObserver.observe(section));
+        });
+    </script>
+</body>
+</html>
+
